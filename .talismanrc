@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/exercise/07.js
+  checksum: c3b9686899cb9bcedc0036fa6e9a6c5e00c8442586bbadb596cfbd8723a2a968
+version: ""
